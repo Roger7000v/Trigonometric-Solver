@@ -31,7 +31,7 @@ int main(int argc, const char * argv[]) {
     	m=m/convert;
     	n=n/convert;
     }else{
-        printf("错误！\n");
+        printf("Error!\n");
         return -1;
     }
     
